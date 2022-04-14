@@ -3,16 +3,6 @@
 	"EngineAssociation": "4.26",
 	"Category": "",
 	"Description": "",
-	"Plugins": [
-		{
-			"Name": "Water",
-			"Enabled": true
-		},
-		{
-			"Name": "ShallowWater",
-			"Enabled": true
-		}
-	],
 	"TargetPlatforms": [
 		"PS4",
 		"WindowsNoEditor",
